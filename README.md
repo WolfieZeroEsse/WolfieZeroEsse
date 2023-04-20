@@ -10,17 +10,7 @@ I create websites and web applications using javascript tecnplogies such as Reac
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40px" />
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40px" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40px" /><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40px" />
 
 ---
 
